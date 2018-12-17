@@ -52,3 +52,18 @@ MANIFEST
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+# Eclipse
+.classpath
+.project
+target
+.settings
+
+# Idea
+.idea
+*.iml
+.idea/
+
+# git
+*.orig
